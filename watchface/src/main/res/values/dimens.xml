@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="digital_text_size">40dp</dimen>
+    <dimen name="digital_text_size_round">45dp</dimen>
+    <dimen name="digital_x_offset">40dp</dimen>
+    <dimen name="digital_x_offset_round">40dp</dimen>
+    <dimen name="digital_y_offset">50dp</dimen>
+    <dimen name="time_line_height">20dp</dimen>
+    <dimen name="date_line_height">20dp</dimen>
+    <dimen name="date_text_size">15dp</dimen>
+    <dimen name="temp_text_size">20dp</dimen>
+    <dimen name="x_offset_line">75dp</dimen>
+    <dimen name="x_offset_temp_high">75dp</dimen>
+    <dimen name="x_offset_temp_low">105dp</dimen>
+    <dimen name="y_offset_temp">125dp</dimen>
+</resources>
