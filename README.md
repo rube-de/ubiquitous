@@ -1,3 +1,5 @@
+remember to use your own weather apk key in the build.gradle
+
 Advanced Android Sample App
 ===================================
 
